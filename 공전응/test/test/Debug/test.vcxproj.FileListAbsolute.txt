@@ -1,0 +1,2 @@
+D:\owncloud\Seagate Backup Plus Drive\desktop 백업\study\c++\c--\공전응\test\test\Debug\test.exe
+D:\owncloud\Seagate Backup Plus Drive\desktop 백업\study\c++\c--\공전응\test\test\Debug\test.pdb
