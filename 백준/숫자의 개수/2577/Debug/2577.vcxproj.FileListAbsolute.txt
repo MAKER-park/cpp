@@ -1,0 +1,2 @@
+D:\owncloud\Seagate Backup Plus Drive\desktop 백업\study\c++\c--\백준\숫자의 개수\2577\Debug\2577.exe
+D:\owncloud\Seagate Backup Plus Drive\desktop 백업\study\c++\c--\백준\숫자의 개수\2577\Debug\2577.pdb
