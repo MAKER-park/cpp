@@ -1,0 +1,4 @@
+﻿  소스.cpp
+D:\owncloud\Seagate Backup Plus Drive\desktop 백업\study\c++\c--\백준\크로아티아 알파벳\2941\소스.cpp(14,20): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+D:\owncloud\Seagate Backup Plus Drive\desktop 백업\study\c++\c--\백준\크로아티아 알파벳\2941\소스.cpp(22,20): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  2941.vcxproj -> D:\owncloud\Seagate Backup Plus Drive\desktop 백업\study\c++\c--\백준\크로아티아 알파벳\2941\Debug\2941.exe

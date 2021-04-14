@@ -1,0 +1,2 @@
+D:\owncloud\Seagate Backup Plus Drive\desktop 백업\study\c++\c--\백준\단어의 개수\1152\Debug\1152.exe
+D:\owncloud\Seagate Backup Plus Drive\desktop 백업\study\c++\c--\백준\단어의 개수\1152\Debug\1152.pdb
